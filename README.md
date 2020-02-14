@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://julianoalvess.com.br/api/logo-wpp.svg" height="200"  alt="Whatsapp" />
+  <img src="https://julianoalvess.com.br/api/logo-wpp.svg" height="450"  alt="Whatsapp" />
 </p>
 
 <h3 align="center">
@@ -11,7 +11,7 @@ Interface  do whatsapp com componentes simples , reutilizáveis e clean code.
 
 ## Dependênciais 🚀
 
-Styled-components
+Styled-components <br>
 React-router-dom
 
 ### Git Clone  🖖
@@ -22,5 +22,4 @@ be happy`
 ```
 
 ### Licença 
-MIT © [Juliano Alves][julianoalves]
-[julianoalves]: https://github.com/julianoalvescode "Juliano Alves"
+MIT ©  [Rocketseat](https://github.com/julianoalvescode)
