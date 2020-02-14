@@ -22,4 +22,4 @@ be happy`
 ```
 
 ### Licença 
-MIT ©  [Rocketseat](https://github.com/julianoalvescode)
+MIT ©  [Juliano Alves](https://github.com/julianoalvescode)
