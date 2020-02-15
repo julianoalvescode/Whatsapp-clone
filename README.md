@@ -7,7 +7,7 @@
 </h3>
 
 ## Visão Geral 👀
-Interface  do whatsapp com componentes simples , reutilizáveis e clean code.
+Interface do web whatsapp com componentes simples, reutilizáveis e clean code.
 
 ## Dependênciais 🚀
 

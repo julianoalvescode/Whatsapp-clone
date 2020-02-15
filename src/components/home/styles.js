@@ -40,10 +40,11 @@ export const Info = styled.p `
 
 `
 
-export const InfoLink = styled.a `
+export const InfoLink = styled.a`
 
   text-decoration: none;
   color: #81259D;
+  cursor: pointer;
 
 
 `

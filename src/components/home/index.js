@@ -33,7 +33,7 @@ const Home = () => {
             <Info>
              O WhatsApp está disponível para Windows. 
             </Info>
-            <InfoLink>
+            <InfoLink href="https://github.com/julianoalvescode/whatsapp-clone" target="_blank">
               Obtenha-o aqui
             </InfoLink>
           </BoxInfo>
