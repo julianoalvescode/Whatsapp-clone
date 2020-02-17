@@ -21,6 +21,7 @@ export const BoxImage = styled.div`
 
   text-align: center;
 
+
 `
 
 export const BoxInfo = styled.div`
@@ -61,7 +62,7 @@ export const Trace = styled.div`
 export const ImageHome = styled.img`
 
 
-  width: 300px;
+  width: 250px;
 
 `;
 

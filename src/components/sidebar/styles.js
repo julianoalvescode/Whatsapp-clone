@@ -17,6 +17,7 @@ export const Perfil = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 
 `;
 
@@ -25,7 +26,7 @@ export const PerfilImage = styled.img`
   height: 45px;
   width: 45px;
   border-radius: 50%;
-
+  cursor: pointer;
 
 `;
 
