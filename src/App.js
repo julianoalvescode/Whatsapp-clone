@@ -3,10 +3,10 @@ import React from 'react';
 import GlobalStyle from './assets/styles/global';
 import { Content } from './assets/styles/style';
 
-import Home from './components/home';
 import Sidebar from './components/sidebar'
-
 import { Helmet } from 'react-helmet';
+
+import Routes from './router/routes'
 
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
       </Helmet>
       <Content>
         <Sidebar/>
-        <Home/>
+        <Routes/>
       </Content>
     </>
   );

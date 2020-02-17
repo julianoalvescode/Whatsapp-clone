@@ -21,6 +21,27 @@ const GlobalStyle = createGlobalStyle`
       font-size: 0.9rem;
     }
 
+
+    /* width */
+    ::-webkit-scrollbar {
+      width: 5px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+        background-color: #fff;
+    }
+    
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+      background: #bfbfbf; 
+    }
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+      background: #b30000; 
+    }
+
 `
 
 export default GlobalStyle;

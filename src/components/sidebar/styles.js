@@ -4,7 +4,10 @@ export const Content = styled.div`
 
   width: 30%;
 
+        /* Track */
+    
 
+  
 `;
 
 export const Perfil = styled.div`
@@ -94,6 +97,14 @@ export const InputSearch = styled.input`
 `;
 
 export const ContactMessage = styled.div`
+
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    height: 79%;
+
+    
+
 
 
 
