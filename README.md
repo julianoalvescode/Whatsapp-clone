@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  Whatsapp Clone
+    <img src="https://static.whatsapp.net/rsrc.php/yv/r/-r3j-x8ZnM7.svg" width="400px" height="150" style="background: #000" />
 </h1>
 
 
