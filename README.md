@@ -1,25 +1,62 @@
+
+
+<h1 align="center">
+  Whatsapp Clone
+</h1>
+
+
 <p align="center">
-  <img src="https://julianoalvess.com.br/api/logo-wpp.svg" height="450"  alt="Whatsapp" />
+  <a href="#rocket-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-<h3 align="center">
-  Interface whatsapp em ReactJS 👻
-</h3>
+## :rocket: Sobre o Projeto
 
-## Visão Geral 👀
-Interface do web whatsapp com componentes simples, reutilizáveis e clean code.
 
-## Dependênciais 🚀
+O desafio era desenvolver a interface **Whatsapp Web** com **React.js**.
 
-Styled-components <br>
-React-router-dom
 
-### Git Clone  🖖
-```bash
-git clone  https://github.com/julianoalvescode/whatsapp-clone.git
-cd whatsapp-clone
-be happy`
-```
+## Dependências:
 
-### Licença 
-MIT ©  [Juliano Alves](https://github.com/julianoalvescode)
+- **react-helmet**
+- **react-icons**
+- **react-redux** 
+- **react-router-dom**
+- **redux**
+- **styled-components**
+
+
+
+
+## Requisitos:
+* **[Node](https://nodejs.org/en/)** 
+*  **[Yarn](https://yarnpkg.com/)** 
+*   **[NPM](https://www.npmjs.com/)** 
+​  
+## Start:
+
+    yarn install
+    yarn start
+
+## Build:
+
+    yarn build
+
+## Test:
+
+    yarn test
+
+
+
+## 📅 Entrega
+
+Demorei cerca de 4 dia para realizar.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by Juliano Alves :wave: 
