@@ -51,7 +51,7 @@ O desafio era desenvolver a interface **Whatsapp Web** com **React.js**.
 
 ## 📅 Entrega
 
-Demorei cerca de 4 dia para realizar.
+Demorei cerca de 4 dias para realizar.
 
 ## :memo: Licença
 
